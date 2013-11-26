@@ -11,6 +11,10 @@
         {
             "name": "Pieter Hordijk",
             "email": "info@pieterhordijk.com"
+        },
+        {
+            "name": "Simon Pioli",
+            "email": "simon@simonpioli.com"
         }
     ],
     "require": {
